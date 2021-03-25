@@ -1,5 +1,6 @@
 # countries
 Advanced Git Workshop
 
-Countries included: 
+Countries Included:  
+Guatemala
 United States
