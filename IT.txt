@@ -1,0 +1,7 @@
+Flag:
+Language: Italian
+Population: 60,317,116
+Capital: Rome
+Driving side: right
+
+Unification: 17 March 1861

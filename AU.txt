@@ -1,0 +1,5 @@
+Crest: Kangaroo and Emu
+Population: 308,401,808
+Driving side: Left
+Capital: Canberra
+
