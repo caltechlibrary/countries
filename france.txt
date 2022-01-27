@@ -1,1 +1,2 @@
 capital: Paris
+known for: wine
