@@ -1,1 +1,5 @@
-Population: 11,330,000
+Population: 2,330,000
+Capital: Havanay
+Small island south of Florida
+
+
